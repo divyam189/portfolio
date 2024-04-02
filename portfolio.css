@@ -38,7 +38,7 @@ a{
     height: 550px;
     padding-top: 100px;
     font-family: Georgia, 'Times New Roman', Times, serif;
-    background-image: url("backimg.png");
+    background-image: url("img/backimg.png");
     background-repeat: no-repeat;
     background-size: cover;
 }
